@@ -62,7 +62,6 @@ Football/
 ├── visuals.py          # plot_heatmap, plot_passmap, plot_shotmap
 ├── role_classifier.py  # compute_metrics, classify_role (3 rules)
 ├── requirements.txt
-└── cache/              # auto-created; events.pkl written on first run
 ```
 
 ---
